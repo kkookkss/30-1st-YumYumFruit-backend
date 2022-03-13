@@ -29,7 +29,7 @@
 ### 적용 기술
 
 > - Front-End: React.js, sass
-> - Back-End: Python, Django web fremework, Bcrypt, My SQL
+> - Back-End: Python, Django web fremework, Bcrypt, MySQL
 > - Common: Git, Github
 
 ### 구현 기능
